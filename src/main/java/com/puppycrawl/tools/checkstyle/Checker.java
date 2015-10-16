@@ -49,6 +49,7 @@ import com.puppycrawl.tools.checkstyle.api.MessageDispatcher;
 import com.puppycrawl.tools.checkstyle.api.SeverityLevel;
 import com.puppycrawl.tools.checkstyle.api.SeverityLevelCounter;
 import com.puppycrawl.tools.checkstyle.utils.CommonUtils;
+import java.util.Scanner;
 
 /**
  * This class provides the functionality to check a set of files.
